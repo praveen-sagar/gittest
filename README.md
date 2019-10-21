@@ -1,11 +1,12 @@
 # gittest
 just for test
 
-# Top 20 Git Commands With Examples
+> ## Top 20 Git Commands With Examples
+
 
 Here are the Git commands which are being covered:
 
-git config
+**_git config
 git init
 git clone
 git add
@@ -23,12 +24,14 @@ git merge
 git remote
 git push
 git pull
-git stash
+git stash_**
 
-# Git Commands
-git config
-Usage: git config –global user.name “name”  
+> ## Git Commands
 
-Usage: git config –global user.email “email address”  
+**_git config_**
+
+Usage: `git config –global user.name “name”`  
+
+Usage: `git config –global user.email “email address”`  
 
 This command sets the author name and email address respectively to be used with your commits.
