@@ -48,3 +48,7 @@ Usage: `git clone [url]`
 
 This command is used to obtain a repository from an existing URL.
 
+**_git add_**
+Usage: `git add [file]` 
+
+This command adds a file to the staging area.
