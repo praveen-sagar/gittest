@@ -2,6 +2,7 @@
 just for test
 
 [Reference](https://dzone.com/articles/top-20-git-commands-with-examples)
+[edureka reference](https://www.edureka.co/blog/git-tutorial/)
 
 > ## Top 20 Git Commands With Examples
 
