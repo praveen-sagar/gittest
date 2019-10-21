@@ -68,3 +68,36 @@ Usage: `git commit -a`
 
 This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
 
+**_git diff_**
+
+Usage: `git diff`  
+
+This command shows the file differences which are not yet staged.
+
+Usage: `git diff –staged` 
+
+This command shows the differences between the files in the staging area and the latest version present.
+
+Usage: `git diff [first branch] [second branch]` 
+
+This command shows the differences between the two branches mentioned.
+
+**_git reset_**
+
+Usage: `git reset [file]`
+
+This command unstages the file, but it preserves the file contents.
+
+Usage: `git reset [commit]`  
+
+This command undoes all the commits after the specified commit and preserves the changes locally.
+
+Usage: `git reset –hard [commit]`
+
+This command discards all history and goes back to the specified commit.
+
+**_git status_**
+
+Usage: `git status` 
+
+This command lists all the files that have to be committed.
